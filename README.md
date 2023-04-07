@@ -1,4 +1,8 @@
-# Constitution
+# The Sovereign Order of Aether
+
+Constitution of 12023
+
+Ad Astra Et Ultra
 
 ## Preamble
 > As inhabitants of this pale blue dot we call Earth, united by our shared humanity regardless of race, gender, sexuality, place of birth, residence, nationality, language, religion, ability, or disability, we embrace the principles of freethinking and innovation. Driven by an unyielding desire to learn and an insatiable curiosity to explore, we embark upon this collective journey with goodwill and determination. In this spirit, we, the People of the Sovereign Order of Aether, hereby ordain and establish this Constitution, pledging to uphold our shared values and aspirations for a brighter future together.
