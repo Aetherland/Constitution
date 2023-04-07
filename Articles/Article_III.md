@@ -1,4 +1,4 @@
-## III. Core Rights
+## Article III. Core Rights
 The people of the Sovereign Order of Aether are endowed with certain inalienable rights, which are fundamental to the human condition. No government shall ever undertake actions or enact legislation that infringes upon these rights.
 
  1. All people enjoy the freedom of speech and thought. The State shall never enact laws limiting an individual's freedom of speech or of the press, so long as it does not incite violence.

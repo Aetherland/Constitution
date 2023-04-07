@@ -1,11 +1,11 @@
-## IV. Nationality
+## Article IV. Nationality
 Nationality in the Sovereign Order of Aether represents a recognized status of association or belonging to the State. Nationality is divided into two distinct categories: Citizen Nationality and Resident Nationality, collectively referred to as Aether Nationality. Aether Nationality may be acquired through a process of naturalization or inherited based on the principle of jus sanguinis, provided that at the time of birth or adoption, at least one parent holds National status or is entitled to National status, with children inheriting the corresponding nationality status and category. The Sovereign Order of Aether imposes no restrictions on holding any foreign nationality and does not limit the acquisition of Aether Nationality on the grounds of foreign nationality.
 
-### IV.I. Citizen Nationality
+### Section I. Citizen Nationality
 Citizenship within the Sovereign Order of Aether represents a recognized status of association, belonging, and loyalty to the State, conferring a range of rights and responsibilities upon those who possess it. Citizens of the Sovereign Order of Aether enjoy the privilege of active participation in the State's political processes, encompassing the right to vote in elections and stand for public office. Furthermore, they are entitled to receive diplomatic protection and assistance from the State in times of need. In order to attain citizenship in the Sovereign Order of Aether through the process of naturalization, individuals must meet specific criteria, such as demonstrating good character, showcasing a thorough understanding of the State's laws and customs, and holding Resident National status for a minimum period of five years.
 
-### IV.II. Resident Nationality
+### Section II. Resident Nationality
 Resident Nationality in the Sovereign Order of Aether denotes a recognized status of a foreign national in association with the State. Unlike Citizen Nationality, Resident Nationality does not confer formal rights, such as participating in the State's political process or receiving diplomatic protection and assistance from the State. Acquiring Resident Nationality entails demonstrating good character. Approved applicants will be granted Resident Nationality, acknowledging their affiliation with the State without bestowing any formal rights or responsibilities.
 
-### IV.III. Loss of Nationality
+### Section III. Loss of Nationality
 The Sovereign Order of Aether has instituted rules governing the loss of nationality, allowing any National to voluntarily relinquish their nationality at any time. However, Resident Nationals may have their nationality revoked for severe criminal offenses at the State's discretion, while Citizen Nationals cannot have their nationality revoked, except in cases where it was obtained through naturalization under fraudulent information. Neither category of nationality is subject to expiration, remaining valid indefinitely for the lifetime of the holder.

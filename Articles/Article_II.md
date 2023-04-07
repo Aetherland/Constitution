@@ -1,4 +1,4 @@
-## II. General Provisions
+## Article II. General Provisions
 The General Provisions set forth the fundamental values, language, territorial principles, and other defining elements and symbols of the Sovereign Order of Aether.
 
  1. The nation is officially designated as the Sovereign Order of Aether. Acceptable alternative short names include Aether Nation and Aetherland. Other alternative names are not recognized for use. Nationals of the Sovereign Order of Aether bear the official demonym of Aether.
