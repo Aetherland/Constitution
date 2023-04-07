@@ -7,15 +7,15 @@ Ad Astra Et Ultra
 ## Preamble
 > As inhabitants of this pale blue dot we call Earth, united by our shared humanity regardless of race, gender, sexuality, place of birth, residence, nationality, language, religion, ability, or disability, we embrace the principles of freethinking and innovation. Driven by an unyielding desire to learn and an insatiable curiosity to explore, we embark upon this collective journey with goodwill and determination. In this spirit, we, the People of the Sovereign Order of Aether, hereby ordain and establish this Constitution, pledging to uphold our shared values and aspirations for a brighter future together.
 
-## I. Form of Government
+## Article I. Form of Government
 The Sovereign Order of Aether shall function as a Parliamentary Republic, emphasizing the role of Parliament as the central body for exercising legislative and executive power. In this system, the Parliament is composed of a single chamber, the House of Commons, which consists of democratically elected representatives responsible for crafting and enacting laws on behalf of the People.
 
-### I.I. Parliament
+### Section I. Parliament
 The Parliament of the Sovereign Order of Aether, responsible for exercising legislative and executive power, shall be composed of two distinct primary entities: the House of Commons and the Council of Three. Legislative power shall be vested in the House of Commons, while executive power shall be vested in the Council of Three. Members of these primary entities, known as Members of Parliament, must be democratically elected and are subject to all rules and regulations governing the powers and activities of Members of Parliament.
 
 Parliament shall also consist of secondary entities, which include various Ministries and Offices. These departments engage in specialized areas of activity, operating under the guidance of, yet independently from, the House of Commons and the Council of Three, unless specifically defined otherwise. Members of secondary entities are not considered Members of Parliament and are not required to stand for election. Instead, they are selected and governed by a set of rules specific to their respective Ministry or Office. Together, the primary and secondary entities form the Parliament of the Sovereign Order of Aether.
 
-### I.II. House of Commons
+### Section II. House of Commons
 The House of Commons is composed of democratically elected representatives known as Members of Parliament, who act on behalf of the People of the Aether Nation. General Elections, during which Members of Parliament are elected, known as Parliamentary Elections, take place every four years. Candidates may run for office either as an independent or as a member of a political party, with the stipulation that no political party may hold more than forty-nine percent of the available seats. In a Parliamentary Election, the House of Commons is dissolved two weeks before the election date, vacating all seats. Following the election, all elected Members of Parliament are summoned to form a new House of Commons no later than two weeks after the election date. The proportional representation system is employed to allocate seats to candidates based on the percentage of votes received.
 
 Given the limitation on the number of seats any single political party may hold, the formation of a coalition government is necessary to achieve a majority within the House of Commons. To form a coalition, two or more political parties, or a combination of parties and independent Members of Parliament, must agree to collaborate and jointly govern. The formation of a coalition shall be documented in a written agreement signed by the party leaders and each independent, specifying the terms, conditions, and policy objectives of the coalition.
@@ -24,14 +24,14 @@ Upon the successful formation of a coalition, the parties involved must elect a 
 
 Members of Parliament are to select among themselves a Speaker, who is responsible for maintaining decorum during debates, ensuring that all Members of Parliament have an opportunity to be heard, and overseeing the enforcement of parliamentary rules and procedures. Additionally, the Speaker represents the House of Commons in its relations with the Council of Three, other authorities, and external organizations. The Speaker of the House of Commons is to be elected by an absolute majority vote among the Members of Parliament as the initial action of the newly summoned House of Commons following a Parliamentary Election. The selection of a Speaker signifies the trust and confidence of the House in their ability to carry out the duties of the office impartially and effectively.
 
-### I.III. Council of Three
+### Section III. Council of Three
 The Council of Three, composed of the Premier, the Deputy Premier, and the Leader of the Opposition, shall function as the collective Head of Government within the Sovereign Order of Aether. This tripartite structure is designed to ensure that no single individual wields the full powers of the Head of Government, fostering collaboration and consensus-building in the decision-making process. As the Head of Government, the Council of Three shall be responsible for collectively leading the nation, setting strategic goals and policy direction, and ensuring the effective implementation of the government's agenda. The Council shall work closely with the House of Commons, as well as with various Ministries and Offices, to uphold the separation of powers and maintain the legislative and executive functions of the Government.
 
 The Council of Three shall hold the authority to ratify new legislation and constitutional amendments, subject to the approval of two of its three members. The Council shall review and consider all bills and amendments passed by the House of Commons, ensuring their adherence to the Constitution and the principles of the Sovereign Order of Aether. Upon ratification, the legislation or amendment shall become legally binding and enforceable within the nation. The Council of Three shall have the power to veto any legislation or constitutional amendment that it deems to be in conflict with the Constitution, the principles of the Sovereign Order of Aether, or the best interests of the nation. To exercise this power, a majority of the Council members must agree to the veto. If the Council exercises its veto power, the legislation or amendment shall be returned to the House of Commons for reconsideration, amendment, or withdrawal.
 
 In exercising their powers and fulfilling their duties as the collective Head of Government, the Council of Three shall be accountable to the Parliament and the People of the Aether Nation, ensuring transparency, integrity, and the pursuit of the common good in all aspects of governance. The Council shall be committed to the principles of democratic representation, the rule of law, and the protection of individual rights and freedoms, as well as the effective administration of the Sovereign Order of Aether.
 
-### I.IV. Legislation
+### Section IV. Legislation
 Within the House of Commons, four categories of legislation can be proposed and passed: Acts, Declarations, Charters, and Orders. Each type of legislation serves a distinct purpose and necessitates varying levels of majority support for passage.
 
  1. Acts constitute binding legislative enactments that must be applied in their entirety throughout the State. They establish legal requirements, rights, and obligations that directly influence the functioning of the State and its people. To pass an Act, an absolute majority vote is necessary. Once enacted, Acts are legally binding and must be implemented and enforced by all pertinent authorities and institutions within the State. Acts significantly impact citizens' lives and the operation of the State's institutions.
@@ -39,22 +39,22 @@ Within the House of Commons, four categories of legislation can be proposed and 
  3. Charters are utilized for the establishment of new Ministries or Offices of Parliament. These documents delineate the structure, functions, and responsibilities of the newly-formed ministries or offices. A special majority is required to pass a Charter. Once approved, Charters create a new Ministry or Office essential for the State's functioning and governance.
  4. Orders are non-binding legislative acts suggesting guidelines that are not mandated for application across the State. They can offer direction on the implementation of Acts, Declarations, or other policies, covering a broad range of subjects. A simple majority is needed to pass an Order. While Orders are not legally binding upon passage, they serve as recommendations or guidance for the execution of policies and legislation. Adoption of Orders can facilitate the clarification and streamlining of laws and policies by relevant authorities and institutions.
 
-### I.V. The General Election
+### Section V. The General Election
 All citizens of the Sovereign Order of Aether possess the eligibility to participate in General Elections, which occur on the final Thursday of February every two years. The electoral process is supervised by an independent, non-partisan Electoral Commission, charged with the responsibility of ensuring free, fair, and transparent elections.
 
-### I.VI. Types of Majorities
+### Section VI. Types of Majorities
 In Parliament, three distinct types of majorities are employed to ascertain the result of a vote: Simple Majority, Absolute Majority, and Special Majority. Each majority type serves a specific purpose in the decision-making process.
 
  1. A Simple Majority is the most fundamental form of majority, achieved when more than half of the voting members present cast their votes in favor of the proposal. This majority type is often used for decisions that do not require a higher level of consensus or carry a significant impact on the legislative landscape.
  2. An Absolute Majority necessitates that a proposal receives more than half of the total possible votes, regardless of the number of voting members present. This majority type is typically employed for decisions with more significant consequences or those that involve substantial policy changes.
  3. A Special Majority is a more stringent requirement than either a Simple Majority or an Absolute Majority. To pass a proposal with a Special Majority, at least two-thirds of the total possible votes must be in favor. This majority type is reserved for decisions that demand a higher level of consensus or involve fundamental changes to the structure or functioning of the government or its institutions.
 
-### I.VII. Members of Parliament
+### Section VII. Members of Parliament
 To be eligible for membership in the House of Commons of the Parliament of The Sovereign Order of Aether, an individual must meet certain prerequisites. These requirements include being at least 18 years of age, holding citizenship within the Order, and possessing sound mental health. This ensures that all Members of Parliament are of a mature age, hold a vested interest in the nation's well-being, and have the cognitive capacity to effectively represent their constituents.
 
 Members of Parliament are subject to the oversight of Anti-Corruption committees, which may be established within the House of Commons by a group of Members of Parliament to maintain ethical standards. These committees possess the authority to initiate impeachment proceedings against Members of Parliament for engaging in criminal activities, abusing power, or failing to fulfill their responsibilities. Removal from office requires an absolute majority vote. Additionally, all political parties, candidates, and Members of Parliament commit to full transparency regarding campaign finance and personal financial information, ensuring accountability and promoting public trust in the democratic process.
 
-## II. General Provisions
+## Article II. General Provisions
 The General Provisions set forth the fundamental values, language, territorial principles, and other defining elements and symbols of the Sovereign Order of Aether.
 
  1. The nation is officially designated as the Sovereign Order of Aether. Acceptable alternative short names include Aether Nation and Aetherland. Other alternative names are not recognized for use. Nationals of the Sovereign Order of Aether bear the official demonym of Aether.
@@ -64,7 +64,7 @@ The General Provisions set forth the fundamental values, language, territorial p
  5. The Sovereign Order of Aether acknowledges the Human Era Calendar, also known as the Holocene Calendar, as the exclusive official calendar of the State. Greenwich Mean Time serves as the recognized time zone for all governmental communications. The Aether Nation adopts the metric system as the sole system for unit measurements.
  6. Various national symbols represent the Aether Nation, including the national colors of Royal Blue, Black, and White. The national animal is the Dragon, the official motto is "Ad Astra Et Ultra," and the official classical element is aether. The flag of the Aether Nation features a black field with a 3:5 aspect ratio, displaying two white intersecting hexagons at the center, with one rotated 90° from its original position.
 
- ## III. Core Rights
+ ## Article III. Core Rights
 The people of the Sovereign Order of Aether are endowed with certain inalienable rights, which are fundamental to the human condition. No government shall ever undertake actions or enact legislation that infringes upon these rights.
 
  1. All people enjoy the freedom of speech and thought. The State shall never enact laws limiting an individual's freedom of speech or of the press, so long as it does not incite violence.
@@ -75,22 +75,22 @@ The people of the Sovereign Order of Aether are endowed with certain inalienable
  6. The people of Aetherland shall be protected from unreasonable searches and seizures by the State of any personal information and possessions, whether physical or digital.
  7. All people of Aetherland shall be treated equally, regardless of race, sex, gender, sexuality, ability, or disability. No Aether shall be subject to discrimination, and the State shall never enact any laws that discriminate against any people of Aetherland.
 
- ## IV. Nationality
+ ## Article IV. Nationality
 Nationality in the Sovereign Order of Aether represents a recognized status of association or belonging to the State. Nationality is divided into two distinct categories: Citizen Nationality and Resident Nationality, collectively referred to as Aether Nationality. Aether Nationality may be acquired through a process of naturalization or inherited based on the principle of jus sanguinis, provided that at the time of birth or adoption, at least one parent holds National status or is entitled to National status, with children inheriting the corresponding nationality status and category. The Sovereign Order of Aether imposes no restrictions on holding any foreign nationality and does not limit the acquisition of Aether Nationality on the grounds of foreign nationality.
 
-### IV.I. Citizen Nationality
+### Section I. Citizen Nationality
 Citizenship within the Sovereign Order of Aether represents a recognized status of association, belonging, and loyalty to the State, conferring a range of rights and responsibilities upon those who possess it. Citizens of the Sovereign Order of Aether enjoy the privilege of active participation in the State's political processes, encompassing the right to vote in elections and stand for public office. Furthermore, they are entitled to receive diplomatic protection and assistance from the State in times of need. In order to attain citizenship in the Sovereign Order of Aether through the process of naturalization, individuals must meet specific criteria, such as demonstrating good character, showcasing a thorough understanding of the State's laws and customs, and holding Resident National status for a minimum period of five years.
 
-### IV.II. Resident Nationality
+### Section II. Resident Nationality
 Resident Nationality in the Sovereign Order of Aether denotes a recognized status of a foreign national in association with the State. Unlike Citizen Nationality, Resident Nationality does not confer formal rights, such as participating in the State's political process or receiving diplomatic protection and assistance from the State. Acquiring Resident Nationality entails demonstrating good character. Approved applicants will be granted Resident Nationality, acknowledging their affiliation with the State without bestowing any formal rights or responsibilities.
 
-### IV.III. Loss of Nationality
+### Section III. Loss of Nationality
 The Sovereign Order of Aether has instituted rules governing the loss of nationality, allowing any National to voluntarily relinquish their nationality at any time. However, Resident Nationals may have their nationality revoked for severe criminal offenses at the State's discretion, while Citizen Nationals cannot have their nationality revoked, except in cases where it was obtained through naturalization under fraudulent information. Neither category of nationality is subject to expiration, remaining valid indefinitely for the lifetime of the holder.
 
-## V. Amendments
+## Article V. Amendments
 In situations deemed necessary, the House of Commons may propose amendments to this Constitution with a Special Majority vote. Following the proposal, amendments must be ratified by the Council of Three before being incorporated into this Constitution. It is imperative that no amendments fundamentally alter the structure of government as outlined in Article I, nor deprive any Aether people of their core rights, as detailed in Article III.
 
-## VI. Ratification
+## Article VI. Ratification
 The ratification of this Constitution shall be signified by the signatures of the State Founders, provided below. Upon their endorsement, this Constitution shall be deemed the supreme law of the Sovereign Order of Aether. The State Founders' signatures serve as a testament to their commitment to upholding the principles and values enshrined within this document, laying the foundation for a prosperous and just society.
 
 /s/ Jacob Haap
