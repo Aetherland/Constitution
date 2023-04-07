@@ -31,7 +31,7 @@ The Council of Three shall hold the authority to ratify new legislation and cons
 
 In exercising their powers and fulfilling their duties as the collective Head of Government, the Council of Three shall be accountable to the Parliament and the People of the Aether Nation, ensuring transparency, integrity, and the pursuit of the common good in all aspects of governance. The Council shall be committed to the principles of democratic representation, the rule of law, and the protection of individual rights and freedoms, as well as the effective administration of the Sovereign Order of Aether.
 
-### I.III. Legislation
+### I.IV. Legislation
 Within the House of Commons, four categories of legislation can be proposed and passed: Acts, Declarations, Charters, and Orders. Each type of legislation serves a distinct purpose and necessitates varying levels of majority support for passage.
 
  1. Acts constitute binding legislative enactments that must be applied in their entirety throughout the State. They establish legal requirements, rights, and obligations that directly influence the functioning of the State and its people. To pass an Act, an absolute majority vote is necessary. Once enacted, Acts are legally binding and must be implemented and enforced by all pertinent authorities and institutions within the State. Acts significantly impact citizens' lives and the operation of the State's institutions.
@@ -39,17 +39,17 @@ Within the House of Commons, four categories of legislation can be proposed and 
  3. Charters are utilized for the establishment of new Ministries or Offices of Parliament. These documents delineate the structure, functions, and responsibilities of the newly-formed ministries or offices. A special majority is required to pass a Charter. Once approved, Charters create a new Ministry or Office essential for the State's functioning and governance.
  4. Orders are non-binding legislative acts suggesting guidelines that are not mandated for application across the State. They can offer direction on the implementation of Acts, Declarations, or other policies, covering a broad range of subjects. A simple majority is needed to pass an Order. While Orders are not legally binding upon passage, they serve as recommendations or guidance for the execution of policies and legislation. Adoption of Orders can facilitate the clarification and streamlining of laws and policies by relevant authorities and institutions.
 
-### I.IV. The General Election
+### I.V. The General Election
 All citizens of the Sovereign Order of Aether possess the eligibility to participate in General Elections, which occur on the final Thursday of February every two years. The electoral process is supervised by an independent, non-partisan Electoral Commission, charged with the responsibility of ensuring free, fair, and transparent elections.
 
-### I.V. Types of Majorities
+### I.VI. Types of Majorities
 In Parliament, three distinct types of majorities are employed to ascertain the result of a vote: Simple Majority, Absolute Majority, and Special Majority. Each majority type serves a specific purpose in the decision-making process.
 
  1. A Simple Majority is the most fundamental form of majority, achieved when more than half of the voting members present cast their votes in favor of the proposal. This majority type is often used for decisions that do not require a higher level of consensus or carry a significant impact on the legislative landscape.
  2. An Absolute Majority necessitates that a proposal receives more than half of the total possible votes, regardless of the number of voting members present. This majority type is typically employed for decisions with more significant consequences or those that involve substantial policy changes.
  3. A Special Majority is a more stringent requirement than either a Simple Majority or an Absolute Majority. To pass a proposal with a Special Majority, at least two-thirds of the total possible votes must be in favor. This majority type is reserved for decisions that demand a higher level of consensus or involve fundamental changes to the structure or functioning of the government or its institutions.
 
-### I.VI. Members of Parliament
+### I.VII. Members of Parliament
 To be eligible for membership in the House of Commons of the Parliament of The Sovereign Order of Aether, an individual must meet certain prerequisites. These requirements include being at least 18 years of age, holding citizenship within the Order, and possessing sound mental health. This ensures that all Members of Parliament are of a mature age, hold a vested interest in the nation's well-being, and have the cognitive capacity to effectively represent their constituents.
 
 Members of Parliament are subject to the oversight of Anti-Corruption committees, which may be established within the House of Commons by a group of Members of Parliament to maintain ethical standards. These committees possess the authority to initiate impeachment proceedings against Members of Parliament for engaging in criminal activities, abusing power, or failing to fulfill their responsibilities. Removal from office requires an absolute majority vote. Additionally, all political parties, candidates, and Members of Parliament commit to full transparency regarding campaign finance and personal financial information, ensuring accountability and promoting public trust in the democratic process.
