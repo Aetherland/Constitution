@@ -1,6 +1,6 @@
-# The Sovereign Order of Aether
+# Constitution of 12023
 
-Constitution of 12023
+The Sovereign Order of Aether
 
 Ad Astra Et Ultra
 
